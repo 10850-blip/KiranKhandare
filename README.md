@@ -17,3 +17,10 @@ Yeshwantrao Chavan College of Engineering, Nagpur
 
 ## Department
 Department of Computer Technology
+## Training Progress
+
+- Introduction to Git - Completed
+- Repository Creation - Completed
+- README Creation - Completed
+- Branch Creation - Completed
+- Commit and Pull Request - In Progress
