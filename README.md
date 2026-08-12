@@ -24,10 +24,4 @@ Department of Computer Technology
 - README Creation - Completed
 - Branch Creation - Completed
 - Commit and Pull Request - Completed
-## Training Progress
 
-- Introduction to Git - Completed
-- Repository Creation - Completed
-- README Creation - Completed
-- Branch Creation - Completed
-- Commit and Pull Request - Completed
