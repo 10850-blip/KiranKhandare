@@ -25,3 +25,21 @@ Department of Computer Technology
 - Branch Creation - Completed
 - Commit and Pull Request - Completed
 
+## GitHub Skills Demonstrated
+
+| Skill | Status |
+|---|---|
+| Repository Creation | Completed |
+| README Documentation | Completed |
+| Branch Creation | Completed |
+| Commit | Completed |
+| Pull Request | Completed |
+| Merge Pull Request | Completed |
+
+## Useful Resources
+
+[Visit GitHub](https://github.com)
+
+## Training Note
+
+This repository documents the practical activities completed during the GitHub Training Activity.
